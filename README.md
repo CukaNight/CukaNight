@@ -1,16 +1,39 @@
-## Hi there 👋
+## 🚀 Привет, я CukaNight
 
-<!--
-**CukaNight/CukaNight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**15 лет | Программист на Python | Будущий бизнесмен**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Сейчас я
+
+- Учусь программированию (делаю свои проекты)
+- Изучаю, как работают бизнес и деньги
+- Качаю скилл, чтобы через пару лет жить на своём
+
+---
+
+### 🛠️ Мои проекты
+
+| Проект | Описание |
+|--------|----------|
+| [Anti-habit tracker](https://github.com/CukaNight/anti-habit-tracker) | Трекер вредных привычек на Python. Считает, сколько дней без срыва. |
+
+*Новые проекты скоро появятся...*
+
+---
+
+### 🎯 Цели на ближайшее время
+
+- [ ] Сделать Telegram-бота
+- [ ] Написать парсер
+- [ ] Заработать первые деньги на коде
+
+---
+
+### 📫 Как со мной связаться
+
+> Пока только через GitHub. Скоро добавлю Telegram.
+
+---
+
+**🔥 Факт обо мне:** Начал программировать в 15, потому что хочу свой бизнес. И потому что быть умным и умелым — это привлекательно.
