@@ -40,7 +40,7 @@
 
 ### 📫 Как со мной связаться
 
-> Пока только через GitHub. Скоро добавлю Telegram.
+> [Telegram](https://t.me/CukaNight2)
 
 ---
 
